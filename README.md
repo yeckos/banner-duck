@@ -1,4 +1,4 @@
-# 🦆 DUCK BANNER v4 - Estilo CyberMux
+# 🦆 DUCK BANNER v4 
 
 Instalador tipo CyberMux para Kali Linux + Termux. Se instala, se queda puesto al abrir la terminal, apodo fácil y desinstalación limpia.
 
@@ -15,7 +15,7 @@ bash install.sh "Tu Apodo"
 ### Sin clonar, directo con curl
 
 ```bash
-curl -sL https://raw.githubusercontent.com/TU-USUARIO/duck-banner/main/install.sh | bash -s "Tu Apodo"
+curl -sL https://raw.githubusercontent.com/yeckos/duck-banner/main/install.sh | bash -s "Tu Apodo"
 ```
 
 Te va a preguntar tu apodo si no lo pones. Si ya lo tenías, lo conserva.
