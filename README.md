@@ -1,13 +1,13 @@
 # 🦆 DUCK BANNER v4 
 
-Instalador tipo CyberMux para Kali Linux + Termux. Se instala, se queda puesto al abrir la terminal, apodo fácil y desinstalación limpia.
+Instalador para Kali Linux + Termux. Se instala, se queda puesto al abrir la terminal, apodo fácil y desinstalación limpia.
 
 ## 🚀 Instalar en 1 comando
 
 ### Desde GitHub (Termux / Kali)
 
 ```bash
-git clone https://github.com/TU-USUARIO/duck-banner.git
+git clone https://github.com/yeckos/duck-banner.git
 cd duck-banner
 bash install.sh "Tu Apodo"
 ```
