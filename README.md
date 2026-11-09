@@ -1,4 +1,4 @@
-# 🦆 DUCK BANNER v4 
+#  DUCK BANNER v4 
 
 Instalador para Kali Linux + Termux. Se instala, se queda puesto al abrir la terminal, apodo fácil y desinstalación limpia.
 
@@ -70,7 +70,7 @@ Borra:
 
 | Archivo | Para qué |
 |---------|----------|
-| `install.sh` | Instalador estilo CyberMux |
+| `install.sh` | Instalador  |
 | `uninstall.sh` | Desinstalador limpio |
 | `duck-banner.sh` | El pato v4, 64 cols, centrado, lee apodo de config |
 | `duck.sh` / `duck-neon.sh` | Versiones viejas v1 / v2 |
